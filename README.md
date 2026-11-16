@@ -1,59 +1,39 @@
-# Hi, I'm Patricia Condeço Gaião
+# Patricia Condeço Gaião
 
-**Finance Director | Financial Controller | FP&A | SAP S/4HANA | Finance Transformation**
-Certified Accountant (OCC) based in the Lisbon Metropolitan Area, Portugal.
+**Finance automation · SAP S/4HANA · AI agents for finance**
+Certified Accountant (OCC) · Lisbon, Portugal
 
-Sixteen years in finance, from Deloitte internal audit to leading finance functions in manufacturing, logistics and car rental. I now combine that experience with AI and automation to build finance tools and products.
+I build automation for finance teams: turning manual closing, reconciliation and invoice-processing routines into reliable, auditable pipelines. 16 years of hands-on finance experience, so the automations are designed around real controls, not just code.
 
-## What I do
+## What I build
 
-Finance leadership, closing and reporting (US GAAP and Portuguese statutory), FP&A, budgeting and CAPEX, internal controls and SOX, audit coordination, treasury, and SAP S/4HANA finance implementations.
+- **Reconciliation engines**: automated matching between operational systems and SAP, with exception queues and audit trail
+- **Invoice and credit-note agents**: document extraction, validation and posting-ready output
+- **Purchase-order workflows**: request, approval and three-way-match platforms
+- **Reporting pipelines**: P&L, balance sheet and KPI packs generated from ERP data
+- **AI-assisted finance ops**: LLM agents (Claude Code) with human-in-the-loop approval
 
-## Experience
+## Tech and tools
 
-- **Finance Director**, Guerin - Car Rental Solutions & Enterprise (2025 - present)
-- - **Finance Manager**, Tupperware Brands (2021 - 2025)
-  - - **Financial Coordinator**, Sugal Group (2018 - 2021): finance lead for the SAP S/4HANA rollout in Portugal and Spain
-    - - **Financial Manager**, Winning Scientific Management (2016 - 2018)
-      - - **Financial Analyst / Financial Controller**, Lluís Simões Logística Integrada (2014 - 2016)
-        - - **Internal Audit / Financial Controller**, Deloitte (2012 - 2014)
-          -
-          - ## Tools
-          -
-          - SAP S/4HANA (FI, GL, AP, AR, AA, TR, Tax, BP), SAP R/3, JD Edwards, Longview, Oracle Hyperion, SharePoint, Microsoft 365 and advanced Excel.
-          -
-          - ## Certifications and education
-          -
-          - - INDEG-IUL ISCTE Executive Education
-            - - CFI Corporate Finance Foundations
-              - - Atlassian Agile Project Management
-                - - Microsoft and LinkedIn: Data Analysis and Project Management Career Essentials
-                  - - Cambridge English C1 (CAE) and Instituto Cervantes Spanish B2.1
-                    -
-                    - ## Currently exploring
-                    -
-                    - AI-assisted finance automation: reconciliations, purchase-order workflows and invoicing agents, and turning finance know-how into products.
-                    -
-                    - ## Languages
-                    -
-                    - Portuguese (native), English (C1), Spanish (B2).
-                    -
-                    - ## Connect
-                    -
-                    - [LinkedIn](https://www.linkedin.com/in/patriciacondeco/)
-                    - ## Hi there 👋
+| Area | Stack |
+|---|---|
+| ERP | SAP S/4HANA (FI, GL, AP, AR, AA, TR, Tax, BP), SAP R/3, JD Edwards |
+| Reporting and BI | Oracle Hyperion, Longview, advanced Excel, Power Query |
+| Automation | Microsoft 365 workflows, SharePoint, LLM agents, Claude Code |
+| Data | Data analysis and visualization (Microsoft/LinkedIn certified) |
 
-<!--
-**pcondeco/pcondeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Finance domain
 
-Here are some ideas to get you started:
+US GAAP and Portuguese statutory closing, FP&A, budgeting and CAPEX, internal controls and SOX, audit coordination, treasury, intercompany, two end-to-end SAP S/4HANA finance implementations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+Certified Accountant (OCC) · CFI Corporate Finance Foundations · Atlassian Agile Project Management · Microsoft Data Analysis Career Essentials · SAP Financials Essential Training · INDEG-IUL ISCTE Executive Education
+
+## Currently
+
+Going deeper into AI engineering to turn finance and management know-how into products. Open to remote B2B work on SAP finance, finance transformation and automation.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/patriciacondeco/)
