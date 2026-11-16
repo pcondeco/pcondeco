@@ -1,6 +1,7 @@
 # Patricia Condeço Gaião
 
 **Finance automation · SAP S/4HANA · AI agents for finance**
+
 Certified Accountant (OCC) · Lisbon, Portugal
 
 I build automation for finance teams: turning manual closing, reconciliation and invoice-processing routines into reliable, auditable pipelines. 16 years of hands-on finance experience, so the automations are designed around real controls, not just code.
