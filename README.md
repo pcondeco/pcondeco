@@ -31,10 +31,6 @@ US GAAP and Portuguese statutory closing, FP&A, budgeting and CAPEX, internal co
 
 Certified Accountant (OCC) · CFI Corporate Finance Foundations · Atlassian Agile Project Management · Microsoft Data Analysis Career Essentials · SAP Financials Essential Training · INDEG-IUL ISCTE Executive Education
 
-## Currently
-
-Going deeper into AI engineering to turn finance and management know-how into products. Open to remote B2B work on SAP finance, finance transformation and automation.
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/patriciacondeco/)
